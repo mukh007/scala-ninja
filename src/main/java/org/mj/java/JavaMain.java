@@ -1,6 +1,6 @@
 package org.mj.java;
 
-import org.mj.scala.ScalaMain;
+//import org.mj.scala.ScalaMain;
 
 public class JavaMain {
 
@@ -10,7 +10,7 @@ public class JavaMain {
 
 	public static void main(String[] args) {
         System.out.println("Inside JavaMain Start");
-        ScalaMain.call();
+//        ScalaMain.call();
         System.out.println("Inside JavaMain Start");
     }
 }
