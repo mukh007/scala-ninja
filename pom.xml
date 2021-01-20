@@ -17,7 +17,7 @@
 		<spark.version>2.0.2</spark.version>
 		<joda.version>2.9.6</joda.version>
 		<gson.version>2.8.0</gson.version>
-		<jackson.version>2.7.5</jackson.version>
+		<jackson.version>2.12.1</jackson.version>
 	</properties>
 
 	<repositories>
