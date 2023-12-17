@@ -24,7 +24,7 @@
 		<repository>
 			<id>maven-dentral</id>
 			<name>Public maven central repository</name>
-			<url>http://repo1.maven.org/maven/</url>
+			<url>https://repo1.maven.org/maven/</url>
 		</repository>
 	</repositories>
 
